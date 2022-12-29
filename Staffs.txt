@@ -1,0 +1,3 @@
+Ozan,Yilmaz,izmir buca,ozanygt13@hotmail.com,05348551700,ERKEK,02.02.02,SEF
+Osman,Gunes,Samsun,ozanygt13@hotmail.com,05348551710,ERKEK,01.05.41,VALE
+Zafer,Yildirim,Ankara,ozanygt13@hotmail.com,05372868897,ERKEK,01.01.12,GARSON

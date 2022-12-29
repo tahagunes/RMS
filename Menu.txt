@@ -1,0 +1,5 @@
+Icecek,kola,5
+Paket,kola+patates,12
+Tatli,baklava,10
+Tatli,halka tatli,3
+Yemek,pizza,20

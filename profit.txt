@@ -1,0 +1,3 @@
+Gelir,table1 satis,110.0
+Gelir,table1 satis,125.0
+Gelir,table1 satis,140.0
